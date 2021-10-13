@@ -2,6 +2,6 @@
 
 Welcome To the Digital Electronics profile!
 We are an organization that makes software
-check out our website here: www.digital-electronics.w3spaces.com
-
+check out our website here: 
+https://digital-electronics.w3spaces.com/
 
